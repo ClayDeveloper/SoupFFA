@@ -1,4 +1,2 @@
 ## Project Information
-```java
-This repository includes the new minigame SoupFFA on ClaySucht
-```
+This repository is about the new minigame "SoupFFA" at ClaySucht.eu
